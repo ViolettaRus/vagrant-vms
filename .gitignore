@@ -1,0 +1,5 @@
+.vagrant/
+*.box
+*.vmdk
+*.vdi
+*.qcow2
